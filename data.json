@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":1,
+            "user_name":"Clint",
+            "Role":"Admin",
+            "active":true
+        },
+        {
+            "id":2,
+            "user_name":"Rahul",
+            "Role":"User",
+            "active":true
+        }
+    ]
+}
